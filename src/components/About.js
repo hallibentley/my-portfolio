@@ -11,7 +11,7 @@ export default function About() {
           <p className="mb-8 leading-relaxed">
             Thanks for visiting my portfolio, I'm glad you're here! <br />
             <br />
-            Based in Columbus, OH (go bucks!) I'm a full stack developer with a passion for
+            Based in Columbus, OH (go bucks!) I'm a software engineer with a passion for
 
             <span className="italic font-medium"> people, tech, travel, & real estate</span>
             .

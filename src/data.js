@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "To Do List",
-    subtitle: "MERN Stack",
+    title: "myFlix App",
+    subtitle: "NETLIFY, REACT, REDUX, BOOTSTRAP",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "myFlix App is a client-side application where users can view movie information, interact with their profile, and add/remove favorite movies. USERNAME: user1 - PASSWORD: password1",
+    image: "./project-4.png",
+    link: "https://hallibentley-myflix.netlify.app/",
   },
   {
     title: "Earth Hero Web App",
-    subtitle: "React and Python",
+    subtitle: "REACT, GATSBY, FIREBASE, AIRTABLE",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "Collaborated on the production of a web application for Earth Hero. Earth Hero provides users personalized steps they can take to better care for our planet.",
+    image: "./project-2.png",
+    link: "https://earthhero.org",
   },
   {
-    title: "Movie App",
-    subtitle: "React and Firebase",
+    title: "To Do List",
+    subtitle: "HTML & CSS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "To Do List is a simple application that allows users to add and remove items to a list. Built using HTML, CSS, & jQuery.",
+    image: "./project-1.png",
+    link: "https://hallibentley.github.io/to-do-list/",
   },
   {
-    title: "Movie API",
-    subtitle: "React Hooks",
+    title: "Pokedex App",
+    subtitle: "JAVASCRIPT & EXTERNAL API",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "Pokedex App is a web based app where a user can browse the original 150 Pokemon. Content extracted from an external API.",
+    image: "./project-3.png",
+    link: "https://hallibentley.github.io/pokedex-app/",
   },
 ];
 
